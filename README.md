@@ -1,1 +1,1 @@
-# Python-ducational
+# Python-educational
